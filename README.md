@@ -1,5 +1,9 @@
 # 🏍️ LegTech – Testes Unitários (JUnit + Maven)
 
+## ✅ LINKS IMPORTANTES
+Projeto Azure DevOps: https://dev.azure.com/RM557886/LegTech
+Link Video: https://youtu.be/iS4LEBBy2jw
+
 Este repositório contém a implementação de **4 testes unitários automatizados** relacionados ao contexto do projeto **LegTech / Gestão de Pátios da Mottu**, utilizando **Java 17**, **JUnit 5** e **Maven**.
 
 O objetivo é validar regras essenciais do sistema, garantindo consistência nas operações de cadastro, movimentação e leitura de dados vinculados às motos e suas zonas dentro dos pátios.
