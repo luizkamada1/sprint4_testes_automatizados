@@ -1,0 +1,4 @@
+br/com/mottu/legtech/RfidTagValidatorTest.class
+br/com/mottu/legtech/StatusServiceTest.class
+br/com/mottu/legtech/PlateValidatorTest.class
+br/com/mottu/legtech/CapacityServiceTest.class
