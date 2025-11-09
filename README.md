@@ -1,8 +1,13 @@
 # 🏍️ LegTech – Testes Unitários (JUnit + Maven)
 
+## 👥 Integrantes:
+- Eduardo Guilherme Dias - RM557886 - 2TDSPV
+- Gabriel Alves Thomaz - RM558637 - 2TDSPV
+- Luiz Sadao Kamada – RM557652 – 2TDSPV
+
 ## ✅ LINKS IMPORTANTES
-Projeto Azure DevOps: https://dev.azure.com/RM557886/LegTech
-Link Video: https://youtu.be/iS4LEBBy2jw
+- Projeto Azure DevOps: https://dev.azure.com/RM557886/LegTech
+- Link Video: https://youtu.be/iS4LEBBy2jw
 
 Este repositório contém a implementação de **4 testes unitários automatizados** relacionados ao contexto do projeto **LegTech / Gestão de Pátios da Mottu**, utilizando **Java 17**, **JUnit 5** e **Maven**.
 
